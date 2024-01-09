@@ -1,0 +1,63 @@
+.header{
+	min-height: 80px;
+	background-color: green;
+	text-align:center;
+	font-size: 40px;
+	background-color:red;
+	
+	
+}
+.wrapper{
+	overflow: hidden;
+	border: 10px solid;
+}
+.contact{
+	height:200px;
+	background-color:green;
+	width:60%;
+	box-sizing: border-box;
+	float:left;
+	border: 4px black;
+}
+.post{
+	height:200px;
+	background-color:blue;
+	width:40%;
+	box-sizing: border-box;
+	float:right;
+}
+.container{ 
+	overflow:hidden;
+
+}
+.first{
+background-color: red;
+
+}
+.second{
+background-color: lightpink;
+}
+.third{
+	background-color: skyblue;
+
+}
+.fourth{
+	background-color: maroon;
+}
+.box{
+	width:25%;
+	height: 100px;
+	float:left;
+}
+.footer{
+	height:100px;
+	background-color:yellow;
+}
+
+.box1{
+	height: 10px;
+	weight: 20px;
+	background-color:deeppink;
+	padding:20px 30px 25px;
+	margin:50px;
+	}
